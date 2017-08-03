@@ -1,0 +1,21 @@
+{
+    "extends": "google",
+    "rules": {
+        "object-curly-spacing": [
+            1,
+            "always"
+        ],
+        "no-unused-vars": "off",
+        "comma-dangle": "off",
+        "require-jsdoc": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true,
+            "modules": true,
+            "experimentalObjectRestSpread": true
+        }
+    }
+}
