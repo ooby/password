@@ -4,5 +4,5 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-### to get started read the [Geting Started](https://facebook.github.io/react-native/docs/getting-started.html)
+### to get started read the [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 ### then replace appropriate files with the files provided in this repo
