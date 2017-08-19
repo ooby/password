@@ -1,13 +1,17 @@
 {
     "extends": "google",
     "rules": {
+        "arrow-parens": "off",
+        "brace-style": "off",
+        "block-spacing": "off",
         "object-curly-spacing": [
             1,
             "always"
         ],
         "no-unused-vars": "off",
         "comma-dangle": "off",
-        "require-jsdoc": "off"
+        "require-jsdoc": "off",
+        "max-len": "off"
     },
     "parserOptions": {
         "ecmaVersion": 6,
